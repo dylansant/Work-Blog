@@ -1,0 +1,7 @@
+Tuesday, August 29th
+
+I continued to practice using the blueprint feature in Unreal Engine 5, finishing the door opening and closing function. The door was not operating correctly,so I had to look through each of the variables to see if the values were correct.
+Turns out that the time to close/open variables had not been set, and changing those variable made my door apen correctly. The next blueprint mini-project I did was making a health and stamina system, and make it appear in the form of a UI.
+The health bar was not working properly, and my only mistake in the tutorial is forgetting to compile my UI progress bar. After compiling everything was working properly. Overall I think I am heading in the right direction in terms of learning UE5,
+and we should have a playable game by October 1st. Which will not look good by no means, but we will get a headstart into making our incredible game. On the design side of things, I can up with multiple ideas for abilities, and how the stats should
+work within the game. We still have not figured out what the game exactly will be as of yet, but it is a daily conversation that is being had as everyone on our team learns the things to put our "robot game" into life.
