@@ -1,0 +1,5 @@
+This week I tried to move away from online tutorials to reading official documentation and testing with ideas in our game. I began to play with ways we could make a joystick work. The only version right now is a failure because if constantly
+clipped through the floor, and we thought it wouldn't fit in the game. Although i did get a dragable ball that snaps back to origin when released. So I think I have a basic grasp of what I need to do to make a functional one, and this is nessisary
+to have a playable game by october. Last week we talked about the direction the game should go in and we all know where we are headed. The artists are going to make a simple joystick model, doesn't have to be good, for the programmers to get started
+on making a truly functional joystick. Buttons will probaly have to be the next thing we do, and we plan on doing this all in 3d. I'm still trying to dive deeper into unreal, learning about different nodes and their functions, but would love to start
+getting our game roling by next week.
