@@ -1,0 +1,4 @@
+These last few weeks I spent most my time trying to make a functioning joystick. While I was ultimately unsuccessful, I have been redirected to make a touch interface for our game. Getting results under a tapped location and storing that information
+in a structure of variables. I have managed to make 3 functions connected to the InputTouch event that are called when something is touched/pressed, released, and when the touch is moved (1 function for each event). The only function near completion
+starts by making an aray, getting a hit result under finger for objects, then it gets a bunch of results and puts them into the structure. Then, in implements my Blueprint Interface (Touchable), if it is impletmented then it adds the information to the
+active touches Map. Overall I feel like we are on the right track, and am starting to understand more and more about unreal. Although things are way more complex than what I thought a few weeks ago...
