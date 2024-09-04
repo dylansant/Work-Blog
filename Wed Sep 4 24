@@ -1,0 +1,7 @@
+With the new year we have advanced on our plan to make a top down, pixel art, hack and slash game. Most recently I have reused a lot of knowledge from last year.
+I used advanced inputs for character movements using the player controller, made a camera component, and created widgets with bindings to player health, mana, and
+info from the timer handle on certain Set Timer By Function Name Nodes. What I'm trying to learn right now is behavior trees for my enemy blueprint to move to the 
+players location. I'm using the simple Move To functionmy BP_MeleeEnemy Behavior Tree and tasks containing calls to functions on my enemy for certain flipbooks to
+play. I made a custom state machine using functions, enums containing each of the state names, and the select node to pick which flipbook to use where. So overall
+for my enemy I have BT_MeleeEnemy to tell my enemy where to move, and what to while moving/not moving. That is really the only new thing recently, since putting the
+extremely basic framework of our project in is nothing new and it's still pretty early in the year.
