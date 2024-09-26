@@ -1,0 +1,5 @@
+We started the first game jam of the year and we decided to do a game themed around sleep paralysis. This game was pretty simple and my job was to make our creature roam around the room using AI. I used my newly found knowledge on AI to
+generate a random location around the room and move to it. I added it so that our enemy has a roam phase meaning that he only moves durning a certain time and when the roam phase is over he attacks the player. Attacking the player involves
+in him moving to the character and when they finish they do a jump scare and reset the game. The last thing I did was make it so whenever our enemy takes damage the roam phase increases in time increasing the likelihood of the player winning.
+Additionally I made a few widgets that set custom events and variables to tell assets that the game is started or when to transition, also a widget that plays a death animation to help things transition between "rounds" of the game.
+Overall I didn't have to do much for this project and the main thing I learned is how to solve packaging issues and how to use randomness in AI.
