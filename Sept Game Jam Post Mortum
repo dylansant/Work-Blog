@@ -1,0 +1,3 @@
+The Game Jam went pretty well. Our team got stuff done pretty quickly and we worked well with each other. I was in charge of the AI of our enemy and the biggest thing I learned is don't use Behavior Trees if they aren't really nessisary.
+This game didn't need anything close to a complex AI that uses a Behavior tree. The enemy was better off just using the event graph and the AI move to node. Another thing I could have improved on is making the enemies rotations more natural
+but the team thought it wasn't really nessisary. The artists did a great job and the game looks pretty good, I am pretty happy with how the game came out but we could add a little more direction for what you are supposed to do and more replayability.
